@@ -1,6 +1,6 @@
 # Егор Козьменко
 
-📩 [your-email@gmail.com](mailto:your-email@gmail.com) · 💬 [@your_telegram](https://t.me/your_telegram) · 🐙 [github.com/your-login](https://github.com/your-login)
+📩 [still.overfitting@gmail.com](mailto:still.overfitting@gmail.com) · 💬 [@ambassad0r_kayfa](https://t.me/ambassad0r_kayfa) · 🐙 [Egor-git-cloud](https://github.com/Egor-git-cloud)
 
 ---
 
